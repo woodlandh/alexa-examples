@@ -1,0 +1,30 @@
+Amazon Certificate Manager
+Elastic Block Store
+EC2 Container Registry
+EC2 Container Service
+Elastic Compute Cloud
+Elastic File System
+Elastic Map Reduce
+Elasticsearch Service
+Amazon Machine Image
+Relational Database Service
+Amazon Resource Name
+Simple Storage Service
+Simple Email Service
+Simple Notification Service
+Simple Queue Service
+Simple Work Flow
+Virtual Private Cloud
+Amazon Web Services
+WorkSpaces Application Manager
+Identity Access Manager
+Key Management Service
+Security Token Service
+Web Application Firewall
+Auto Scaling Group
+Availability Zone
+Network Address Translation
+Access Control List
+Virtual Private Gateway
+Database Migration Service
+Internet of Things
