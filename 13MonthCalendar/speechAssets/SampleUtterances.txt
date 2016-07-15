@@ -1,0 +1,13 @@
+GetNewFactIntent the day
+GetNewFactIntent the date
+GetNewFactIntent what is the day
+GetNewFactIntent what is the date
+GetNewFactIntent tell me the day
+GetNewFactIntent tell me the date
+GetNewFactIntent give me the day
+GetNewFactIntent give me the date
+GetNewFactIntent tell me today's day
+GetNewFactIntent tell me today's date
+GetNewFactIntent give me some information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
