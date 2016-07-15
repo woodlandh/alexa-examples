@@ -22,153 +22,153 @@
 var questions = [
     {
         "What is A C M ?": [
-            "Amazon Certificate Manager"
+            "amazon certificate manager"
         ]
     },
     {
         "What is E B S ?": [
-            "Elastic Block Store"
+            "elastic block store"
             
         ]
     },
     {
         "What is E C R ?": [
-            "EC2 Container Registry"
+            "EC2 container registry"
         ]
     },
     {
         "What is E C S ?": [
-            "EC2 Container Service"
+            "EC2 container service"
         ]
     },
     {
         "What is E C 2 ?": [
-            "Elastic Compute Cloud"
+            "elastic compute cloud"
         ]
     },
     {
         "What is E F S ?": [
-            "Elastic File System"
+            "elastic file system"
         ]
     },
     {
         "What is E M R ?": [
-            "Elastic Map Reduce"
+            "elastic map reduce"
         ]
     },
     {
         "What is E S ?": [
-            "Elasticsearch Service"
+            "elasticsearch service"
         ]
     },
     {
         "What is A M I ?": [
-            "Amazon Machine Image"
+            "amazon machine image"
         ]
     },
     {
         "What is R D S ?": [
-            "Relational Database Service"
+            "relational database service"
         ]
     },
     {
         "What is A R N ?": [
-            "Amazon Resource Name"
+            "amazon resource name"
         ]
     },
     {
         "What is S 3 ?": [
-            "Simple Storage Service"
+            "simple storage service"
         ]
     },
     {
         "What is S E S ?": [
-            "Simple Email Service"
+            "simple email service"
         ]
     },
     {
         "What is S N S ?": [
-            "Simple Notification Service"
+            "simple notification service"
         ]
     },
     {
         "What is S Q S ?": [
-            "Simple Queue Service"
+            "simple queue service"
         ]
     },
     {
         "What is S W F ?": [
-            "Simple Work Flow"
+            "simple work flow"
         ]
     },
     {
         "What is V P C ?": [
-            "Virtual Private Cloud"
+            "virtual private cloud"
         ]
     },
     {
         "What is A W S ?": [
-            "Amazon Web Services"
+            "amazon web services"
         ]
     },
     {
         "What is W A M ?": [
-            "WorkSpaces Application Manager"
+            "workspaces application manager"
         ]
     },
     {
         "What is I A M ?": [
-            "Identity Access Manager"
+            "identity access manager"
         ]
     },
     {
         "What is K M S ?": [
-            "Key Management Service"
+            "key management service"
         ]
     },
     {
         "What is S T S ?": [
-            "Security Token Service"
+            "security token service"
         ]
     },
     {
         "What is W A F ?": [
-            "Web Application Firewall"
+            "web application firewall"
         ]
     },
     {
         "What is A S G ?": [
-            "Auto Scaling Group"
+            "auto scaling group"
         ]
     },
     {
         "What is A Z ?": [
-            "Availability Zone"
+            "availability zone"
         ]
     },
     {
         "What is N A T ?": [
-            "Network Address Translation"
+            "network address translation"
         ]
     },
     {
         "What is A C L ?": [
-            "Access Control List"
+            "access control list"
         ]
     },
     {
         "What is V P G ?": [
-            "Virtual Private Gateway"
+            "virtual private gateway"
         ]
     },
     {
         "What is D M S ?": [
-            "Database Migration Service"
+            "database migration service"
         ]
     },
     {
         "What is I O T ?": [
-            "Internet of Things"
+            "internet of things"
         ]
     },
 ];
