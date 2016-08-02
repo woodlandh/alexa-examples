@@ -1,13 +1,16 @@
 # alexa-examples
 First attempt at writing Amazon Alexa skills. All three skills have been published and are available to be installed.
 
-![Sloth Facts](/SlothFacts/slothfacts_512px.png?raw=true)
+![Sloth Facts](/SlothFacts/slothfacts_108px.png?raw=true)
+
 [SlothFacts](http://alexa.amazon.com/spa/index.html#skills/dp/B01IFPEWCI/?ref=skill_dsk_skb_sr_0) gives you a random fact about sloths
 
-![Cloud Acronym Quiz](/CloudAcronymQuiz/awsquiz_512px.png?raw=true)
+![Cloud Acronym Quiz](/CloudAcronymQuiz/awsquiz_108px.png?raw=true)
+
 [CloudAcronymQuiz](http://alexa.amazon.com/spa/index.html#skills/dp/B01IGF9YHU/?ref=skill_dsk_skb_sr_0) tests your knowledge of AWS acronyms
 
-![13 Month Calendar](/13MonthCalendar/13months_512px.png?raw=true)
+![13 Month Calendar](/13MonthCalendar/13months_108px.png?raw=true)
+
 [13MonthCalendar](http://alexa.amazon.com/spa/index.html#skills/dp/B01IGQ0U5Y/?ref=skill_dsk_skb_sr_0) tells you today's date on the obscure calendar
 
 Advice for Alexa developers:
