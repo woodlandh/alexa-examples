@@ -1,7 +1,7 @@
 # alexa-examples
 First attempt at writing Amazon Alexa skills. All three skills have been published and are available to be installed.
 
-![Sloth Facts](/SlothFacts/slothfacts_108px.png?raw=true)
+![Sloth Facts](/slothFacts/slothfacts_108px.png?raw=true)
 
 [SlothFacts](http://alexa.amazon.com/spa/index.html#skills/dp/B01IFPEWCI/?ref=skill_dsk_skb_sr_0) gives you a random fact about sloths
 
