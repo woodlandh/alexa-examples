@@ -143,8 +143,8 @@ function handleNewFactRequest(response) {
     console.log('todays date is ' + datestring);
     var ifcdatestr = mapDates(datestring);
     // Create speech output
-    var speechOutput = "Today's date: " + ifcdatestr;
-    var cardTitle = "Today's (IFC) date:";
+    var speechOutput = "Today's thirteen-month date is " + ifcdatestr;
+    var cardTitle = "Today's 13-month date:";
     response.tellWithCard(speechOutput, cardTitle, speechOutput);
 }
 
