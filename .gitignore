@@ -1,2 +1,7 @@
 .DS_Store/
 .DS_Store
+.npmignore
+.npm
+.serverless/
+TheStromboShow/scraper/vendored/
+TheStromboShow/alexa/js/node_modules
