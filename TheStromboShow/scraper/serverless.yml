@@ -20,7 +20,7 @@ service: strombo # NOTE: update this with your service name
 provider:
   name: aws
   runtime: python2.7
-  memorySize: 256
+  memorySize: 1024
   timeout: 15
 
 # you can overwrite defaults here
@@ -89,24 +89,24 @@ resources:
       Properties:
         BucketName: stromboshow
         AccessControl: PublicRead
-#    StromboBucketPolicy:
-#      Type: AWS::S3::BucketPolicy
-#      Properties:
-#        Bucket:
-#          Ref: StromboBucket
-#        PolicyDocument:
-#          Statement:
-#            - Sid: PublicReadGetObject
-#              Effect: Allow
-#              Principal: "*"
-#              Action:
-#              - s3:GetObject
-#              Resource:
-#              - Fn::Join:
-#                - ''
-#                - - 'arn:aws:s3:::'
-#                  - Ref: StromboBucket
-#                  - "/*"
+    StromboBucketPolicy:
+      Type: AWS::S3::BucketPolicy
+      Properties:
+        Bucket:
+          Ref: StromboBucket
+        PolicyDocument:
+          Statement:
+            - Sid: PublicReadGetObject
+              Effect: Allow
+              Principal: "*"
+              Action:
+              - s3:GetObject
+              Resource:
+              - Fn::Join:
+                - ''
+                - - 'arn:aws:s3:::'
+                  - Ref: StromboBucket
+                  - "/*"
 #  Outputs:
 #     NewOutput:
 #       Description: "Description for the output"
